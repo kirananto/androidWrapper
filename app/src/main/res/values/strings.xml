@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TintuMon</string>
+    <string name="webURL">http://getecz.com/app/tintumon</string>
+    <string name="website_domain">getecz.com</string>
+</resources>
